@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargabbaruah&label=Profile%20views&color=0e75b6&style=flat" alt="bhargabbaruah" /> </p>
 
-- 🌱 I’m currently learning **C JS**
+- 🌱 I’m currently learning **C  and  JS**
 
 - 📫 How to reach me **bhargabbaruah64@gmail.com**
 
