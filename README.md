@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm BHARGAB BARUAH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargabbaruah&label=Profile%20views&color=0e75b6&style=flat" alt="bhargabbaruah" /> </p>
 
